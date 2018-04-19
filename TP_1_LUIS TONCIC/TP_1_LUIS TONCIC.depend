@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1504485138 source:c:\users\luis\desktop\tp_1_cascara\funciones.c
+
+1504485350 source:c:\users\luis\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504483676 c:\users\luis\desktop\tp_1_cascara\funciones.h
+
+1504547103 source:c:\users\luchi\desktop\workplace luchis\tp_1_luis toncic\funciones.c
+
+1504547811 source:c:\users\luchi\desktop\workplace luchis\tp_1_luis toncic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504545020 c:\users\luchi\desktop\workplace luchis\tp_1_luis toncic\funciones.h
+
+1504548564 source:c:\users\alumno\desktop\tp_1_luis toncic\funciones.c
+
+1504635570 source:c:\users\alumno\desktop\tp_1_luis toncic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504633919 c:\users\alumno\desktop\tp_1_luis toncic\funciones.h
+
+1504726092 source:c:\users\luchi\desktop\tp_1_luis toncic\funciones.c
+
+1504726668 source:c:\users\luchi\desktop\tp_1_luis toncic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504637386 c:\users\luchi\desktop\tp_1_luis toncic\funciones.h
+
+1504726094 source:f:\tsp\prog 1\tp1 2017 calculadora\tp_1_luis toncic\funciones.c
+
+1504809966 source:f:\tsp\prog 1\tp1 2017 calculadora\tp_1_luis toncic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504637386 f:\tsp\prog 1\tp1 2017 calculadora\tp_1_luis toncic\funciones.h
+
