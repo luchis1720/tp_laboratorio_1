@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1506054032 source:d:\tsp\prog 1\tp2 2017 arrays\tp_2_luis toncic\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+	"funciones.h"
+
+1506053668 d:\tsp\prog 1\tp2 2017 arrays\tp_2_luis toncic\funciones.h
+
+1506054066 source:d:\tsp\prog 1\tp2 2017 arrays\tp_2_luis toncic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
