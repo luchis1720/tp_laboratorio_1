@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1508278160 source:e:\tsp\prog 1\tp3 2017\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508279756 e:\tsp\prog 1\tp3 2017\tp_3_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<ctype.h>
+
+1508279790 source:e:\tsp\prog 1\tp3 2017\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<ctype.h>
+	"funciones.h"
+
+1508781428 source:c:\users\luchi\desktop\tp_3_cascara\funciones.c
+	"funciones.h"
+
+1508780892 c:\users\luchi\desktop\tp_3_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<ctype.h>
+
+1508777954 source:c:\users\luchi\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508369730 source:c:\users\alumno\desktop\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508358324 c:\users\alumno\desktop\tp_3_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<ctype.h>
+
+1508359134 source:c:\users\alumno\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<ctype.h>
+	"funciones.h"
+
+1508781430 source:c:\users\luchi\documents\learnspace1\tp3 2017 arch bin txt\tp3 terminado\tp_3_cascara\funciones.c
+	"funciones.h"
+
+1508780894 c:\users\luchi\documents\learnspace1\tp3 2017 arch bin txt\tp3 terminado\tp_3_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<ctype.h>
+
+1508777956 source:c:\users\luchi\documents\learnspace1\tp3 2017 arch bin txt\tp3 terminado\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
